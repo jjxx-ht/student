@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.login{
+    float:right;
+    margin: 20px 20px 20px 0;
+}
+.role, .password, .username{
+    width: 480px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #e1e1e5;
+    margin: 10px auto;
+    padding: 8px 12px;
+    box-sizing: border-box;
+}
+.btn{
+    display: inline-block;
+    width: 480px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #e1e1e5;
+    margin: 10px auto;
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+    background-color: #006be5;
+    box-sizing: border-box;
+ }
+.logo{
+    height: 256px;
+    width: 270px;
+}
